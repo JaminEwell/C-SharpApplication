@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jewell\\source\\repos\\GradebookApp\\src\\src.csproj": {}
+    "C:\\Users\\jewell\\source\\repos\\GradebookApp\\src\\GradeBook\\GradeBook.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jewell\\source\\repos\\GradebookApp\\src\\src.csproj": {
+    "C:\\Users\\jewell\\source\\repos\\GradebookApp\\src\\GradeBook\\GradeBook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jewell\\source\\repos\\GradebookApp\\src\\src.csproj",
-        "projectName": "src",
-        "projectPath": "C:\\Users\\jewell\\source\\repos\\GradebookApp\\src\\src.csproj",
+        "projectUniqueName": "C:\\Users\\jewell\\source\\repos\\GradebookApp\\src\\GradeBook\\GradeBook.csproj",
+        "projectName": "GradeBook",
+        "projectPath": "C:\\Users\\jewell\\source\\repos\\GradebookApp\\src\\GradeBook\\GradeBook.csproj",
         "packagesPath": "C:\\Users\\jewell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jewell\\source\\repos\\GradebookApp\\src\\obj\\",
+        "outputPath": "C:\\Users\\jewell\\source\\repos\\GradebookApp\\src\\GradeBook\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
